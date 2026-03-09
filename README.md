@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Software frameworks**
 
-- 👨‍💻 All of my projects are available at [mysuperportfolio.netlify.app](mysuperportfolio.netlify.app)
+- [👨‍💻 All of my projects are available at](https://github.com/Parth-077?tab=repositories)
 
 - 📫 How to reach me **parth.chalke24@aiml.sce.edu.in**
 
