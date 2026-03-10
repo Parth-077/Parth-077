@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-077&label=Profile%20views&color=0e75b6&style=flat" alt="parth-077" /> </p>
 
-- 🌱 I’m currently learning **Software frameworks**
+- ☢️ I’m currently learning **Software frameworks**
 
-- 👨‍💻 All of my projects are available at - [Click me](https://github.com/Parth-077?tab=repositories)
+- 📱 All of my projects are available at - [Click me](https://github.com/Parth-077?tab=repositories)
 
 - 🥃 My Portfolio - [Portfolio](https://mysuperportfolio.netlify.app)
 
-- 📫 How to reach me **parth.chalke24@aiml.sce.edu.in**
+- 👁️‍🗨️ How to reach me **parth.chalke24@aiml.sce.edu.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
