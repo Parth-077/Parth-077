@@ -1,4 +1,4 @@
-![githubprofileheader](img/p.png). 
+<img src="img/p.png" width="100%"> 
 <h1 align="center">Hi 👋, I'm PARTH CHALKE</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
