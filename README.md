@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm PARTH CHALKE</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-077&label=Profile%20views&color=0e75b6&style=flat" alt="parth-077" /> </p>
-
 - ☢️ I’m currently learning **Software frameworks**
 
 - 📱 All of my projects are available at - [Click me](https://github.com/Parth-077?tab=repositories)
